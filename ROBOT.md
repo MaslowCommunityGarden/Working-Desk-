@@ -1,3 +1,5 @@
-ModerationLevel = communityManaged
-
- Facilitator: 
+{
+    "ModerationLevel": "communityManaged",
+    "Facilitator": " ",
+    "Category": "furniture" 
+}
